@@ -1,0 +1,12 @@
+item { 
+	name:'sano'
+	id:1
+}
+item { 
+	name:'tizon_tardio'
+	id:2
+}
+item { 
+	name:'tizon_temprano'
+	id:3
+}
