@@ -1,0 +1,26 @@
+<annotation>
+  <folder>sano</folder>
+  <filename>2ccb9ee9-faac-4d32-9af5-29497fa2e028___RS_HL 1837</filename>
+  <path>C:\Users\julia\Desktop\TESIS_A\INTENTO_2\dataset\sano\2ccb9ee9-faac-4d32-9af5-29497fa2e028___RS_HL 1837.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sano</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>21</xmin>
+      <ymin>13</ymin>
+      <xmax>240</xmax>
+      <ymax>245</ymax>
+    </bndbox>
+  </object>
+</annotation>

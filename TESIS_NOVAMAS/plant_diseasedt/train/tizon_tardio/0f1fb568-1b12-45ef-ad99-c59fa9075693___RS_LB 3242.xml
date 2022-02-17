@@ -1,0 +1,26 @@
+<annotation>
+  <folder>tizon_tardio</folder>
+  <filename>0f1fb568-1b12-45ef-ad99-c59fa9075693___RS_LB 3242</filename>
+  <path>C:/Users/julia/Desktop/20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN/20211025_Custom_Object_Detection_using_PyTorch_Faster_RCNN/dataset/tizon_tardio/0f1fb568-1b12-45ef-ad99-c59fa9075693___RS_LB 3242.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tizon_tardio</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>9</xmin>
+      <ymin>8</ymin>
+      <xmax>244</xmax>
+      <ymax>246</ymax>
+    </bndbox>
+  </object>
+</annotation>

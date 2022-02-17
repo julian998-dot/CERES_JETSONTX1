@@ -1,0 +1,26 @@
+<annotation>
+  <folder>tizon_tardio</folder>
+  <filename>2846161c-9ac0-4ef3-b563-aee344dac80d___RS_LB 4851</filename>
+  <path>C:\Users\julia\Desktop\TESIS_A\INTENTO_2\dataset\tizon_tardio\2846161c-9ac0-4ef3-b563-aee344dac80d___RS_LB 4851.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tizon_tardio</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>20</ymin>
+      <xmax>206</xmax>
+      <ymax>216</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>tizon_temprano</folder>
+  <filename>089fb289-4bea-48b6-a29a-3a1d268d9dd3___RS_Early.B 8081</filename>
+  <path>C:\Users\julia\Desktop\TESIS_A\INTENTO_2\dataset\tizon_temprano\089fb289-4bea-48b6-a29a-3a1d268d9dd3___RS_Early.B 8081.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tizon_temprano</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>14</ymin>
+      <xmax>222</xmax>
+      <ymax>244</ymax>
+    </bndbox>
+  </object>
+</annotation>
